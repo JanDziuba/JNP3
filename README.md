@@ -1,1 +1,1 @@
-# JNP3
+# Sokoban hasell implementation
