@@ -1,1 +1,1 @@
-# Sokoban hasell implementation
+# Sokoban haskell implementation
